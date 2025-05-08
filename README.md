@@ -1,4 +1,4 @@
-# 📐e = ∑∞ⁿ⁼⁰ ¹ₙ🤓 Calculadora Web Interactiva 
+# Calculadora Web Interactiva 📐e = ∑∞ⁿ⁼⁰ ¹ₙ🤓 
 
 ¡Bienvenido! Esta es una calculadora interactiva creada con **HTML**, **CSS** y **JavaScript**, perfecta para practicar lógica de programación y diseño web. 🚀
 
@@ -25,5 +25,4 @@
 - HTML5
 - CSS3
 - JavaScript
-
 
